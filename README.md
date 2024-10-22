@@ -60,7 +60,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Bv40/main/pc.sh | bash
 https://sites.google.com/view/lucianostech/retro-consolas
 
 # Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
-https://sites.google.com/view/raspberrypibuenosaires/joystick-arcade
+https://sites.google.com/view/lucianostech/joystick-arcade
 
 <br>
 <h1 align="center"> Invite a Coffee</h1>
